@@ -1,0 +1,20 @@
+{
+  "name": "entorno-de-desarrollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "actividad1": "ts-node src/TC4M2/Actividad1/actividad1.ts",
+    "actividad2": "ts-node src/TC4M2/Actividad2/actividad2.ts",
+    "actividad3": "ts-node src/TA4M2/Actividad3/actividad3.ts",
+    "actividad4": "ts-node src/TA4M2/Actividad4/actividad4.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
