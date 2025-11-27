@@ -27,7 +27,6 @@ class Banco {
 let banco = new Banco(); // Creamos un banco
 
 // Pruebas
-console.log(saldo1)
 let saldo1 = banco.depositar(100, 50); // Depositamos 50 a un saldo de 100
 console.log(saldo1); // Muestra 150
 
