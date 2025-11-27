@@ -8,7 +8,8 @@
     "actividad1": "ts-node src/TC4M2/Actividad1/actividad1.ts",
     "actividad2": "ts-node src/TC4M2/Actividad2/actividad2.ts",
     "actividad3": "ts-node src/TA4M2/Actividad3/actividad3.ts",
-    "actividad4": "ts-node src/TA4M2/Actividad4/actividad4.ts"
+    "actividad4": "ts-node src/TA4M2/Actividad4/actividad4.ts",
+    "banco": "ts-node src/Tarea25Nov/banco.ts"
   },
   "keywords": [],
   "author": "",
