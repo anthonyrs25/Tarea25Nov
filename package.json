@@ -9,7 +9,11 @@
     "actividad2": "ts-node src/TC4M2/Actividad2/actividad2.ts",
     "actividad3": "ts-node src/TA4M2/Actividad3/actividad3.ts",
     "actividad4": "ts-node src/TA4M2/Actividad4/actividad4.ts",
-    "banco": "ts-node src/Tarea25Nov/banco.ts"
+    "banco": "ts-node src/Tarea25Nov/banco.ts",
+    "estudiante": "ts-node src/Tarea25Nov/estudiante.ts",
+    "auto": "ts-node src/Tarea25Nov/auto.ts",
+    "restaurante": "ts-node src/Tarea25Nov/restaurante.ts",
+    "hospital": "ts-node src/Tarea25Nov/hospital.ts"
   },
   "keywords": [],
   "author": "",
